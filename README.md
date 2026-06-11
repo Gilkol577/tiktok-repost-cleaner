@@ -20,7 +20,8 @@ messages.
 ## Run
 
 ```powershell
-cd "C:\Users\GIL\Documents\tiktok_repost)remover"
+git clone https://github.com/Gilkol577/tiktok-repost-cleaner.git
+cd tiktok-repost-cleaner
 node normal-chrome-clicker.js
 ```
 
