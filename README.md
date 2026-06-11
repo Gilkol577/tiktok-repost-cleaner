@@ -1,3 +1,5 @@
+![TikTok Repost Cleaner](assets/cover.png)
+
 # TikTok Repost Cleaner
 
 A small local tool that helps remove your own TikTok reposts from your normal
@@ -13,6 +15,7 @@ messages.
 - `normal-chrome-clicker.js` - Node entry point and terminal UI.
 - `normal-chrome-helper.ps1` - Windows helper for screen detection and local input.
 - `package.json` - npm scripts only.
+- `assets/cover.png` - GitHub README cover image.
 
 ## Run
 
