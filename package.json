@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-repost-cleaner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small local normal-Chrome helper for removing your own TikTok reposts.",
+  "main": "normal-chrome-clicker.js",
+  "scripts": {
+    "start": "node normal-chrome-clicker.js",
+    "normal": "node normal-chrome-clicker.js",
+    "check": "node --check normal-chrome-clicker.js"
+  }
+}
